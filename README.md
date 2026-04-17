@@ -1,5 +1,5 @@
 
-**CyberShield — Cybersecurity Awareness Quiz Website**
+**CyberShield - Cybersecurity Awareness Game Website**
 
 An interactive, single-page cybersecurity awareness training website built with HTML, CSS, and vanilla JavaScript. CyberShield features 10 fully interactive lessons covering essential online safety topics — each ending with a timed quiz to test your knowledge.
 
